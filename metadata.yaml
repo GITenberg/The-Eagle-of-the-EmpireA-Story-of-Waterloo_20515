@@ -1,0 +1,29 @@
+_repo: The-Eagle-of-the-EmpireA-Story-of-Waterloo_20515
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brady, Cyrus Townsend
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '5591'
+    url: http://www.gutenberg.org/2009/agents/5591
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2007-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcc 'PS'
+- !lcsh 'Waterloo, Battle of, Waterloo, Belgium, 1815 -- Fiction'
+title: 'The Eagle of the Empire: A Story of Waterloo'
+url: http://www.gutenberg.org/ebooks/20515
